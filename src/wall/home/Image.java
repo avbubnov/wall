@@ -8,10 +8,4 @@ public class Image {
 		
 	}
 	
-	public void find(String name) {
-
-            System.out.println("Image:find:01");
-
-         }
-
 }
