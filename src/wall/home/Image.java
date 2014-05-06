@@ -6,7 +6,7 @@ public class Image {
 	public static void main(String[] args) {
 		
 		System.out.println("Image:main:01");
-		final String rec = "123";
+		String rec = "123";
 		rec += "456";
 	}
 	
