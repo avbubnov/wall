@@ -8,9 +8,9 @@ public class Image {
 		
 	}
 	
-	public void find(String name) {
+	public void search(String name) {
 
-            System.out.println("Image:find:01");
+            System.out.println("Image:search:01");
 
          }
 
