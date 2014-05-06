@@ -7,5 +7,11 @@ public class Image {
 		System.out.println("Image:main:01++");
 		
 	}
+	
+	public void find(String name) {
+
+            System.out.println("Image:find:01");
+
+         }
 
 }
