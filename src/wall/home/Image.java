@@ -13,6 +13,7 @@ public class Image {
 	public void search(String name) {
 
             System.out.println("Image:search:001");
+            System.out.println("Image:search:002");
 
    }
 }
